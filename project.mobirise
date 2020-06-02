@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-01_1820",
+    "name": "snaplens",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,6 +31,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/lens-1.png",
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 1,
     "versionPublish": "4.12.3"
   },
